@@ -1,4 +1,4 @@
-<?php
+<?php Ahom
   require_once('includes/template.php');
   $dirs = array_filter(glob('*'), 'is_dir');
   $items = array();
